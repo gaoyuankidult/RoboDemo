@@ -5,15 +5,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
+![](header.jpg)
 
 ## Usage example
 
@@ -35,11 +27,11 @@ Alex Yuan Gao – gaoyuankidult@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
+[https://github.com/gaoyuankidult/RoboDemo](https://github.com/gaoyuankidult/)
+
 ## LICENCE
 
 [MIT Licence](https://en.wikipedia.org/wiki/MIT_License)
-
-[https://github.com/gaoyuankidult/RoboDemo](https://github.com/gaoyuankidult/)
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
