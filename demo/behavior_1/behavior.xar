@@ -4193,7 +4193,6 @@ class MyClass(GeneratedClass):
                             <Resource name="Speech" type="Lock" timeout="0" />
                         </Box>
                         <Link inputowner="2" indexofinput="2" outputowner="0" indexofoutput="2" />
-                        <Link inputowner="0" indexofinput="4" outputowner="6" indexofoutput="6" />
                         <Link inputowner="7" indexofinput="2" outputowner="9" indexofoutput="4" />
                         <Link inputowner="9" indexofinput="2" outputowner="3" indexofoutput="4" />
                         <Link inputowner="6" indexofinput="2" outputowner="2" indexofoutput="7" />
@@ -4207,6 +4206,7 @@ class MyClass(GeneratedClass):
                         <Link inputowner="15" indexofinput="2" outputowner="14" indexofoutput="4" />
                         <Link inputowner="4" indexofinput="2" outputowner="15" indexofoutput="4" />
                         <Link inputowner="8" indexofinput="2" outputowner="5" indexofoutput="4" />
+                        <Link inputowner="0" indexofinput="4" outputowner="6" indexofoutput="7" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>
